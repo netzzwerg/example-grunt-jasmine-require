@@ -1,4 +1,3 @@
-
 Example project for testing jasmine with requirejs and grunt.
 -----------------------------------------
 
@@ -16,6 +15,9 @@ https://github.com/gruntjs/grunt
 * RequireJS - AMD Module Loader
 https://github.com/jrburke/requirejs
 
+* Istanbul - Code Coverage
+https://npmjs.org/package/istanbul
+
 ## Installation
 
 ```
@@ -27,3 +29,10 @@ npm install
 ```
 grunt test --verbose=true
 ```
+
+## Code coverage [TODO]
+
+```
+grunt test:coverage
+```
+
