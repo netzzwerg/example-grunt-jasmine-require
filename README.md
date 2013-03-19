@@ -1,8 +1,8 @@
 
+Example project for testing jasmine with requirejs and grunt.
+-----------------------------------------
 
-# Example project for testing jasmine with requirejs and grunt.
-
-## Usage of following frameworks:
+## Usage of following frameworks
 
 * PhantomJS - Headless WebKit Browser
 https://github.com/ariya/phantomjs
@@ -16,11 +16,13 @@ https://github.com/gruntjs/grunt
 * RequireJS - AMD Module Loader
 https://github.com/jrburke/requirejs
 
-## Run this commands to see test results:
+## Installation
 
 ```
 npm install
 ```
+
+## Run tests
 
 ```
 grunt test --verbose=true
