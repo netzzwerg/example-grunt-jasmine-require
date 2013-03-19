@@ -1,0 +1,18 @@
+{
+  "name": "example-grunt-jasmine-require",
+  "version": "0.1.0",
+  "author": {
+    "name": "bvarga"
+  },
+  "description": "Example project for testing jasmine with requirejs and grunt.",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "0.4.0rc7",
+    "grunt-contrib-connect": "~0.1.0",
+    "grunt-contrib-jasmine": "~0.4.1",
+    "grunt-template-jasmine-requirejs": "~0.1.0"
+  },
+  "readmeFilename": "README.md"
+}
